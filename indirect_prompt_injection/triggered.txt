@@ -1,0 +1,12 @@
+Payload was executed:
+__PAYLOAD_TRIGGERED__
+total 36
+drwxrwxr-x 3 youss youss 4096 Apr  6 01:53 .
+drwxrwxr-x 4 youss youss 4096 Apr  3 11:45 ..
+-rw-rw-r-- 1 youss youss   83 Apr  6 01:50 command_was_executed.txt
+-rw-rw-r-- 1 youss youss  179 Apr  3 23:08 .env
+-rw-rw-r-- 1 youss youss 2157 Apr  6 02:01 ipinjec_script.py
+-rw-rw-r-- 1 youss youss  412 Apr  3 14:37 README.md
+-rw-rw-r-- 1 youss youss  671 Apr  3 11:53 requirements.txt
+-rw-rw-r-- 1 youss youss  540 Apr  6 01:58 triggered.txt
+drwxrwxr-x 5 youss youss 4096 Apr  3 11:53 .venv
