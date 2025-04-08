@@ -1,0 +1,15 @@
+Payload Executed:
+Remote payload executed on youss-Precision-3580
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+dhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false
+tss:x:104:104:TPM software stack,,,:/var/lib/tpm:/bin/false
+whoopsie:x:106:109::/nonexistent:/bin/false
+speech-dispatcher:x:110:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+hplip:x:115:7:HPLIP system user,,,:/run/hplip:/bin/false
+gnome-initial-setup:x:118:65534::/run/gnome-initial-setup/:/bin/false
+gdm:x:120:122:Gnome Display Manager:/var/lib/gdm3:/bin/false
+youss:x:1000:1000:youss:/home/youss:/bin/zsh
+snapd-range-524288-root:x:524288:524288::/nonexistent:/usr/bin/false
+snap_daemon:x:584788:584788::/nonexistent:/usr/bin/false
+ollama:x:997:984::/usr/share/ollama:/bin/false
