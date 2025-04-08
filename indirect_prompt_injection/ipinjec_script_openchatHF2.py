@@ -50,7 +50,7 @@ def exec(cmd: str) -> str:
         result = subprocess.run(['bash', '-c', cmd], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         output = result.stdout.decode().strip() + "\n" + result.stderr.decode().strip()
 
-        print("📁 Result of exec():")
+        print("Result of exec():")
         print(output)
 
         with open("openchat_triggered.txt", "w") as f:
