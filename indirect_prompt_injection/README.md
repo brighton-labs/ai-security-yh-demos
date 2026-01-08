@@ -4,5 +4,5 @@ This is an AI LLM vulnerability which occurs when an LLM uses external content, 
 
 https://gist.github.com/yousshark/9413c9fe3cf161f3328077ae9b0f12e1
 
-le script en rapport avec le gist :
+The related script to the gist :
 https://github.com/brighton-labs/ai-security-yh-demos/blob/main/indirect_prompt_injection/ipinjec_script_openchatHF2.py
